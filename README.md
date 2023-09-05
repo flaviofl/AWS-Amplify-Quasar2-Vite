@@ -2,12 +2,12 @@
 
 ## Steps summary
 - Install NVM
-- Install Node (recommended LTS version)
+- Install Node (recommended LTS version)   
 
-- Install VS Code
+- Install VS Code   
 
 - Install Quasar CLI
-- Install Amplify CLI
+- Install Amplify CLI   
 
 - Configure Amplify
 - Initialize Amplify
